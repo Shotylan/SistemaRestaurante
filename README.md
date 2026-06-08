@@ -633,3 +633,5 @@ Se aceptan contribuciones mediante pull requests.
 ---
 
 ¡Gracias por usar SistemaRestaurante! 🙏
+
+## Pipeline CI activo con GitHub Actions
